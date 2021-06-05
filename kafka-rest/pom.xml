@@ -167,6 +167,7 @@
                     <descriptors>
                         <descriptor>src/assembly/development.xml</descriptor>
                         <descriptor>src/assembly/package.xml</descriptor>
+                        <descriptor>src/assembly/standalone.xml</descriptor>
                     </descriptors>
                     <archive>
                         <manifest>
